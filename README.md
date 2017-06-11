@@ -1,4 +1,4 @@
-# RIP 2/18/2017
+# Patched. 10.05.17
 <br />
 <br />
 ### GodnestCSGOTool
