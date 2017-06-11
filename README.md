@@ -1,11 +1,14 @@
-# GodnestCSGOTool
-Lobby bots full source. C#
+# RIP 2/18/2017
+<br />
+<br />
+### GodnestCSGOTool
+lobby bots full source code
 
-- Mail.dll 
-- MaterialSkin 
-- Newtonsoft.Json 
-- protobuf-net 
-- SteamAuth 
-- SteamKit2 
+### Dependency
 
-Credits to: TedRedPhox, Gerbal1337
+Mail.dll <br />
+MaterialSkin <br />
+Newtonsoft.Json <br />
+protobuf-net <br />
+SteamAuth <br />
+SteamKit2 <br />
