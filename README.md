@@ -12,3 +12,5 @@ Newtonsoft.Json <br />
 protobuf-net <br />
 SteamAuth <br />
 SteamKit2 <br />
+
+Credits to: TedRedPhox, GERBAL1337
