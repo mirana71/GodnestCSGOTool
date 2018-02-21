@@ -1,8 +1,8 @@
 # Patched. 10.05.17
 <br />
 <br />
-### GodnestCSGOTool
-lobby bots full source code
+GodnestCSGOTool
+lobby bots full source code by TedRedPhox & Gerbal1337
 
 ### Dependency
 
@@ -13,4 +13,3 @@ protobuf-net <br />
 SteamAuth <br />
 SteamKit2 <br />
 
-Credits to: TedRedPhox, GERBAL1337
